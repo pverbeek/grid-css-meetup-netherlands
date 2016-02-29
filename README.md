@@ -1,7 +1,7 @@
 # Grid CSS
 
-Date: Friday 13th May
-Location: Amsterdam Netherlands
+*Date:* Friday 13th May
+*Location:* Amsterdam Netherlands
 
 ## Following this format
 - http://fantasai.inkedblade.net/style/events/grid-workshop
