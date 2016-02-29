@@ -8,7 +8,7 @@
 
 ## Read first
 - https://www.w3.org/Style/CSS/read
-- https://www.w3.org/TR/css3-flexbox/#flex-common
+- https://www.w3.org/TR/css-grid-1/
 
 ## Other bits
 - http://doodle.com/poll/gkzayu6ccktfswtd#table
